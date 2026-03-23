@@ -70,4 +70,4 @@ python main.py
 
 ## 👩‍💻 Author
 
-Tanvi Ligae
+Tanvi Ligade
